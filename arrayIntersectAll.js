@@ -33,7 +33,6 @@ let intersect = function () {
         }
     }
     console.log(ans);
-    
 }
       
 var a = ['dog', 'bar', 'foo'];
